@@ -14,7 +14,7 @@ qualquer coia
 ```swift
 struct WeatherTool: Tool {
     let name = "getWeather"
-    let description = "Retrieve the latest weather information for a city"
+    let description = "Reaatrieve the latest weather information for a city"
 
     @Generable
     struct Arguments {
